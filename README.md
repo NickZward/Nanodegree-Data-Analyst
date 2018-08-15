@@ -13,3 +13,9 @@ In this project, I will analyzed local and global temperature data and compared 
 [Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%201/Project%201%20report.pdf)
 
 [Data used](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%201/results.csv)
+
+### Project 2: Investigate a Dataset
+
+[Link to report]
+
+[Data used]
