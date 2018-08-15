@@ -11,6 +11,6 @@ In this project, I will analyzed local and global temperature data and compared 
 
 - After creating the line chart, I made observations about the similarities and differences between the world averages and my city’s averages, as well as overall trends. 
 
-[Link to report]
+[Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%201/Project%201%20report.pdf)
 
 [Data used]
