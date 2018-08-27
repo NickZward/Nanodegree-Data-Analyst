@@ -27,6 +27,6 @@ After completing the project, I felt comfortable with:
 - Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently.
 - Know how to use Matplotlib to produce plots showing your findings.
 
-[Link to report]
+[Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%202/Investigate%20a%20dataset%20-%20No-show.ipynb)
 
 [Data used](https://www.kaggle.com/joniarroba/noshowappointments)
