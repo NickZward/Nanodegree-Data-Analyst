@@ -9,5 +9,3 @@ After completing the project, I felt comfortable with:
 - Builiding supervised learning models.
 
 [Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%203/Analyze%20AB%20Test%20Results.ipynb)
-
-[Data used]
