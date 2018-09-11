@@ -55,4 +55,9 @@ I used the following packages to complete this project:
 - Json
 - Matplotlib
 
-[Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%204/wrangle_act.ipynb)
+[Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/tree/master/Project%204/Reports)
+
+[Link to code](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%204/wrangle_act.ipynb)
+
+[Link to data](https://github.com/NickZward/Nanodegree-Data-Analyst/tree/master/Project%204/Data)
+
