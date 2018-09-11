@@ -12,5 +12,5 @@ I used the following packages to complete this project:
 
 [Link to report]
 [Link to code](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%204/wrangle_act.ipynb)
-[Link to data]
+[Link to data](https://github.com/NickZward/Nanodegree-Data-Analyst/tree/master/Project%204/Data)
 
