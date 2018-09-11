@@ -42,3 +42,17 @@ After completing the project, I felt comfortable with:
 - Builiding supervised learning models.
 
 [Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%203/Analyze%20AB%20Test%20Results.ipynb)
+
+### Project 4: Wrangle and Analyze Data
+Real-world data rarely comes clean. I used Python and its libraries to gather data from various sources and in a variety of formats. After gathering the data I assessed its quality and tidiness. After assessing the data I was able to clean the data. This process is called data wrangling. After the whole wrangling process I analyzed the Data and came up with three useful insights.
+
+I used the following packages to complete this project:
+
+- Pandas
+- NumPy
+- Requests
+- Tweepy
+- Json
+- Matplotlib
+
+[Link to report]
