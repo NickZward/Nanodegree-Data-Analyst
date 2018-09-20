@@ -7,6 +7,6 @@ After completing this project, I learned to:
 
 [Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%205/exploration.ipynb)
 
-[Link to presentation]()
+[Link to presentation](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%205/slide.ipynb)
 
 [Data used](https://www.fordgobike.com/system-data)
