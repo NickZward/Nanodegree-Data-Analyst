@@ -5,6 +5,8 @@ After completing this project, I learned to:
 - Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
 - Use design principles to create effective visualizations for communicating findings to an audience.
 
-[Link to report]()
+[Link to report](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%205/exploration.ipynb)
+
 [Link to presentation]()
+
 [Data used](https://www.fordgobike.com/system-data)
