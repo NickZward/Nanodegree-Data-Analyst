@@ -74,3 +74,6 @@ After completing this project, I learned to:
 [Link to presentation](https://github.com/NickZward/Nanodegree-Data-Analyst/blob/master/Project%205/slide.ipynb)
 
 [Data used](https://www.fordgobike.com/system-data)
+
+### My Certificate
+![Udacity Data Foundations Nanodegree certificate](Certificate.png)
